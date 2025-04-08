@@ -1,5 +1,5 @@
 # CSViz 📊
-
+![ChatGPT Image Apr 8, 2025, 11_41_00 AM](https://github.com/user-attachments/assets/6847f86b-8082-40e9-b576-5db57548e7c0)
 A streamlined Streamlit application for uploading, analyzing, processing, cleaning, and visualizing your CSV data.
 
 ## ✨ Features
@@ -45,9 +45,9 @@ streamlit run Home.py
     *   Apply transformations like removing duplicates, handling missing values, correcting data types, etc.
     *   Utilize AI-powered cleaning if your OpenAI API key is configured.
 5.  **📈 Visualize Data**
-    *   Select columns and chart types to generate visualizations.
+    *   Auto-selects columns and chart types to generate visualizations.
     *   Explore your cleaned data visually.
-    *   Export charts or the final cleaned dataset.
+    *   Visualize Dashboard.
 
 ## 🔑 API Key Configuration (Optional)
 
