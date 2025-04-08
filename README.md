@@ -1,5 +1,5 @@
 # CSViz 📊
-
+![ChatGPT Image Apr 8, 2025, 11_41_00 AM](https://github.com/user-attachments/assets/1e3525df-4a6d-4805-8e47-31009f598eed)
 A streamlined Streamlit application for uploading, analyzing, processing, cleaning, and visualizing your CSV data.
 
 ## ✨ Features
