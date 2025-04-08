@@ -1,0 +1,48 @@
+# Python specific
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Streamlit specific
+.streamlit/secrets.toml
+
+# Data files
+*.csv
+*.xlsx
+*.zip
+*.tar.gz
+*.parquet
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDE specific
+.idea/
+.vscode/
+*.swp
+*.swo 
